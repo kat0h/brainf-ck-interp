@@ -11,7 +11,7 @@ Kotakato
 
 AA -> [https://ascii.co.uk/art/pigeon](https://ascii.co.uk/art/pigeon)
 
-**ASCII Art is not Lisenced at MIT**
+**ASCII Art is not licensed at MIT**
 
-# Lisence
+# License
 MIT
