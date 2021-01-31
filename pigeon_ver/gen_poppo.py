@@ -11,5 +11,7 @@ retsrc = ""
 for i in src:
     if i in {">", "<", "+", "-", ".", ",", "[", "]", }:
         retsrc += key[i]
+    elif i in "\n":
+        retsrc += "\n"
 
 print(retsrc)
