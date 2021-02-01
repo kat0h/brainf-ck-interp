@@ -1,5 +1,6 @@
 # A Brainfuck Interpreter
 ごめんなさい。ただの遅いBrainf*ckインタプリタです
+あとループが壊れてる
 
 # Usage
 
